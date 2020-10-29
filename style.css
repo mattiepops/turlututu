@@ -18,12 +18,14 @@ html{
     flex-direction: row;
     align-items: center;
     justify-content: flex-start;
+    padding-left: 60px;
+
     
 }
 
 .login {
     max-width: 50%;
-    padding-right: 30px;
+    padding-right: 50px;
   }
 
   .features{
@@ -32,3 +34,29 @@ html{
       padding-right: 10px;
   }
 
+i {
+    margin-right: 10px;
+}
+
+.flex2{
+    background-color: #2093cc;
+    display: flex;
+    justify-content: flex-start;
+}
+
+.headerlist {
+    list-style-type: none;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    color: white;
+    padding-left: 20%;
+}
+
+.headerimage{
+    justify-self: flex-start;
+}
+
+.button {
+    
+}
