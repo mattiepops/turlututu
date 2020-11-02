@@ -1,25 +1,28 @@
 # **Home-page-of-turlututu**
-by Sifedine Hajji
+
+by Matei Popescu
 
 ## What ?
 
-à l'aide d'une capture d'écran on nous à demander de recrée une copie de cette dernière en utilisant du html et du css.
-This work is done individually but we can get help from a friend or find solutions on the internet.
+Using a screenshot in the turlututu exercise instructions, we were asked to recreate the website in the screenshot using HTML and CSS.
+
+This work has been done individually but I have also gotten help from my loyal group "Bandersnatch" or I used Google to look for solutions on the internet.
+
  
 ## When did i work on it ?
 
-The Work was given on Monday 28th october and i finished it on wednesday 30th bacause i had another work :[Doc-The-Chinese-Farmer](https://sifedine-hajji.github.io/Progressive-Enhancement/). I recently refined it.
+The Work was given on Monday 28th october and I finished it on Monday bacause i had another work :[Doc-The-Chinese-Farmer](https://sifedine-hajji.github.io/Progressive-Enhancement/). I recently refined it.
 
 ## What does it look like ?
 
-Here is the direct link to the site I made [Homepage of Turlututu](https://sifedine-hajji.github.io/Home-page-of-turlututu/) to get a final rendering of the work.
+Here is the direct link to the site I made [Homepage of Turlututu](https://github.com/mattiepops/turlututu.git) to get a final rendering of the work.
 
-#### **Here is some screenshots of the website** :
+#### **Here are some screenshots of the awesome website** :
 
-![Screenshot1](Screenshot1.PNG)
+![Screenshot1](Screenshot 2020-11-02 at 17.02.20.png)
 
-![Screenshot4](Screenshot2.PNG)
+![Screenshot4](Screenshot 2020-11-02 at 17.02.28.png)
 
 ## License
 
-© Hajji Sifedine 
+© Matei Popescu 2020
