@@ -21,9 +21,7 @@ html{
     flex-direction: row;
     align-items: center;
     justify-content: flex-start;
-    padding-left: 60px;
-
-    
+    padding-left: 60px;  
 }
 
 .login {
@@ -160,3 +158,26 @@ i {
     padding-right: 30px;
 }
 
+.navbar2 {
+    background-color: rgb(51, 51, 51);
+    color: white;
+    list-style-type: none;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    margin: auto;
+    padding: 2%;
+}
+
+.leftnav2 {
+    max-width: 50%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;  
+}
+
+.message {
+    size: 1%;
+}
