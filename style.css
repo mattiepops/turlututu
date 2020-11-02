@@ -2,6 +2,8 @@ html{
     background-color: white;
 }
 
+
+
 .navbar {
     background-color: rgb(51, 51, 51);
     color: white;
@@ -10,6 +12,7 @@ html{
     flex-direction: row;
     align-items: center;
     justify-content: space-between;
+    margin: auto;
 }
 
 .leftnav{
@@ -42,8 +45,8 @@ i {
     background-color: #2093cc;
     display: flex;
     justify-content: flex-start;
-    padding-bottom: 30px;
-    padding-top: 30px;
+    padding-bottom: 1%;
+    padding-top: 1%;
 }
 
 .headerlist {
@@ -68,3 +71,27 @@ button {
     color: white;
     padding: 2%;
 }
+
+.container {
+    background-color: white;
+    padding: 1%;
+    align-self: flex-end;
+    display: flex;
+    justify-content: center;
+    padding-left: 12.5%;
+}
+
+.flex3 {
+    background-color: #2093cc;
+    display: flex;
+    color: white;
+    align-content: flex-end;
+    margin: auto;
+    padding: 3%;
+}
+
+.lead {
+    font-size: larger;
+    font-weight: bolder;
+}
+
