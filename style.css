@@ -64,7 +64,7 @@ i {
     padding-left: 10%;
 }
 
-button {
+.button1 {
     border: 2px solid white;
     background-color: orange;
     border-radius: 10px;
@@ -85,13 +85,78 @@ button {
     background-color: #2093cc;
     display: flex;
     color: white;
-    align-content: flex-end;
+    align-content: center;
+    justify-content: center;
     margin: auto;
     padding: 3%;
+}
+
+.flex3-1 {
+    max-width: 50%;
+}
+
+.flex3-2 {
+    max-width: 50%;
 }
 
 .lead {
     font-size: larger;
     font-weight: bolder;
+}
+
+.bande {
+    background-color: white;
+    padding: 1%;
+    align-self: flex-end;
+    display: flex;
+    justify-content: center;
+    padding-left: 12.5%;
+}
+
+.flex4 {
+    background-color: #eeeeee;
+    display: flex;
+    flex-direction: column;
+    padding: 3%;
+    margin: auto;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.flex4-1 {
+    max-height: 50%;
+}
+
+.producthunt {
+    max-height: 50%;
+}
+
+.final {
+    display: flex;
+    flex-direction: row;
+    margin: 5%;
+    justify-content: center;
+
+   
+}
+
+.button2 {
+    border: 2px solid white;
+    background-color: #165882;
+    border-radius: 10px;
+    color: white;
+    padding-left: 30px;
+    padding-right: 30px;
+
+}
+
+.button3 {
+    border: 2px solid white;
+    background-color: orange;
+    border-radius: 10px;
+    color: white;
+    padding-left: 30px;
+    padding-right: 30px;
 }
 
