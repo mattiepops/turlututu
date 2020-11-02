@@ -19,9 +19,9 @@ Here is the direct link to the site I made [Homepage of Turlututu](https://githu
 
 #### **Here are some screenshots of the awesome website** :
 
-![Screenshot1](Screenshot 2020-11-02 at 17.02.20.png)
+![Screenshot1](https://github.com/mattiepops/turlututu/blob/main/Screenshot%202020-11-02%20at%2017.02.20.png?raw=true)
 
-![Screenshot4](Screenshot 2020-11-02 at 17.02.28.png)
+![Screenshot4](https://github.com/mattiepops/turlututu/blob/main/Screenshot%202020-11-02%20at%2017.02.28.png?raw=true)
 
 ## License
 
