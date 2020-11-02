@@ -11,7 +11,7 @@ This work has been done individually but I have also gotten help from my loyal g
  
 ## When did I work on it and finished it ?
 
-This task was given on Monday 28th October and I finished it on Monday 2nd November bacause i had another work :[Doc-The-Chinese-Farmer](https://mattiepops.github.io/progressive_enhancement/).
+This task was given on Monday 28th October and I finished it on Monday 2nd November bacause I had another project to work on first:[Doc-The-Chinese-Farmer](https://mattiepops.github.io/progressive_enhancement/).
 
 ## What does it look like ?
 
